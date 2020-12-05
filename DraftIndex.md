@@ -1,3 +1,26 @@
+## What is IoT - Daizy
+- Brief history of IoT
+- IoT concepts
+- General example of IoT
+## Advantages of IoT - Julia
+- Environment
+- Efficiency
+## Application in Industries - Jameson, Asaph
+- Agriculture
+- Medical
+- Manufacturing
+- Retail, etc
+## Challenges with IoT - Joel
+- Privacy
+- Security, etc
+- Environmental
+## Real life examples - Gerold, Joshua
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
