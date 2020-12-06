@@ -10,7 +10,7 @@
 - Medical
 - Manufacturing
 - Retail, etc
-## [Challenges with IoT - Joel](https://github.com/jechnology/mms142-groupe-2020/blob/main/Challenges.md)
+## [Challenges with IoT - Joel](https://mms142-groupe-2020.github.io/InternetofThings/Challenges)
 - Privacy
 - Security, etc
 - Environmental
