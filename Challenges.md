@@ -1,6 +1,6 @@
-## Challenges with IoT
+# Challenges with IoT
 
-Intro
+## Intro
 
 On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening connectivity of devices at the limit of a home’s WiFi network.
 
@@ -16,7 +16,7 @@ If Amazon, or any other company, can just simply flip a switch and turn on or of
 
 Neighbor’s devices connecting to the internet via a user’s ISP also means that they are connected to the home network, which presents a lot of security questions.
 
-Privacy
+## Privacy
 
 Data privacy has been at the forefront of discussion in the Internet space for the past decade. Numerous reports of companies selling the data of their users have prompted regulators in the EU and the US to pass laws like the General Data Protection Regulation (GDPR) in order to limit these activities. Even with these laws, however, the potential amount of data that can be collected by smart devices still lead to a lot of privacy issues. The companies might not know your name or address, but if they have enough data about you, that information will become irrelevant.
 
@@ -38,14 +38,14 @@ Devices without microphones or cameras can still gather information about their 
 
 Even something as innocuous as a Smart Light Bulb, that you can turn on or off remotely, can gather data. Looking at the data of when it is turned on in a particular time frame, it can be used to see possible hours that there is a person in a specific room.
 
-Ownership
+## Ownership
 
 Indeed some companies charge fees for using their devices or services related to these devices. This is on top of the purchasing price of the actual device. If a user fails to pay for these services, or if they do something that the original manufacturer didn’t like, they could lose access to the device they paid for.
 
 <Deere tractors issue>
 
 
-Security
+## Security
 
 The aspect of IoT that presents the most challenges is the security aspect. More Internet  connected devices means more points of attack. Conversely, vulnerable devices can also be used as a mode of attack, as they are at their core, computers.
 
@@ -79,7 +79,7 @@ https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worl
 
 https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/
 
-Conclusion
+## Conclusion
 
 Of course, there are many more challenges that might be less obvious that were not mentioned here. One of them is the impact of AI integration on these smart devices, which brings about images of The Terminator movies and Skynet. Right now though, that challenge can possibly still be avoided.
 
