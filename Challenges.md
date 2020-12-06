@@ -42,7 +42,7 @@ Even something as innocuous as a Smart Light Bulb, that you can turn on or off r
 
 Indeed some companies charge fees for using their devices or services related to these devices. This is on top of the purchasing price of the actual device. If a user fails to pay for these services, or if they do something that the original manufacturer didn’t like, they could lose access to the device they paid for.
 
-<Deere tractors issue>
+-Deere tractors issue-
 
 
 ## Security
@@ -59,25 +59,25 @@ In 2015, security researchers were able to find a vulnerability in a Samsung Sma
 
 “The internet-connected device is designed to download Gmail Calendar information to an on-screen display. Security shortcomings mean that hackers who manage to jump on to the same network can potentially steal Google login credentials from their neighbours.”
 
-<https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/>
+https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/
 
 Though there are smaller companies, they are likely to get sold to these bigger companies (Nest to Google, Smart Things to Samsung) if not close down outright. When these companies close or get bought, there is a high chance that the devices they sell will no longer be updated, leaving them vulnerable to attack for as long as they are still in use.
 
 Ken Munro, an Ethical Hacking Specialist, was able to demonstrate existing vulnerabilities in smart locks, smart kettles, and even smart dolls. These range from being able to open and find locks, to retrieving wifi passwords, to being able to communicate with a child.
 
-<https://www.youtube.com/watch?v=pGtnC1jKpMg>
+https://www.youtube.com/watch?v=pGtnC1jKpMg
 
 Indeed, as more and more smart devices get connected to a network, more and more security vulnerabilities need to be taken into account. This requires a lot of work and thought, something that the average consumer probably will not even consider. This leaves security at the hands of the manufacturers some of whom do not have the best interest of the consumer in mind.
 
 And when these vulnerabilities are exploited, smart devices can also be used as tools to aid in attacking other networks. In 2016, a number of exploited IoT devices were leveraged to mount a distributed denial of service attack (DDOS) that affected sites like Twitter, Reddit and Spotify among others.
 
-https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073/
+https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073
 
 An estimated 21.5 Billion IoT devices will become active by 2025 according to Statista.com. Contrast this with just 3 billion smartphone users by 2021 and the difference in scale that any vulnerability or attack can introduce.
 
 https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones.
 
-https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/
+https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide
 
 ## Conclusion
 
@@ -85,6 +85,5 @@ Of course, there are many more challenges that might be less obvious that were n
 
 The challenges of IoT mentioned above might look daunting and insurmountable, but these obstacles are not going to hinder the adoption of IoT itself. The advantages and benefits of connected devices far outweigh the negatives, at least to the companies that make and market them. 
 
-<example of revenue on IoT devices here>
 
 No, these challenges are what society and the world at large will need to address. IoT is here to stay, it might not even be a choice to live with it or without it, it will just be everywhere.
