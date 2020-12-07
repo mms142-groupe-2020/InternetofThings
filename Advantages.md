@@ -1,4 +1,8 @@
+# Advantages of IoT
+
 The Internet of Things (IoT) describes the platform connecting various objects, enabling object-to-object communication without human involvement. It hosts different technologies such as sensors and application program interface (API) to collect and exchange data.
+
+## Trends
 
 Recent technological innovations preempting the current of IoT include the easing access to technological wares such as broadband Internet and connections to these networks, alongside the increasing numbers of devices with Wi-Fi capabilities and sensors. The following trends serve as preconditions that can catalyze IoT's further growth in our society:
 
@@ -10,7 +14,7 @@ Recent technological innovations preempting the current of IoT include the easin
 
 * Numerous studies and attempts to create a wireless ad hoc network—an autonomous and self-organizing network—can decentralize existing data infrastructures. This is comprised of mobile network nodes that can communicate directly with other nodes, thus creating temporary functional networks. This can disrupt the present data network architecture which relies on different infrastructures
 
----
+## Advantages
 
 There are numerous applications of WSN that when combined with IoT can build highly specialized systems such as "smart cities" that are greatly compatible with their users' needs and preferences. These spaces collate data considering their safety and energy consumption to build an efficient, waste-reducing, and time & energy-saving system. Human-centric WSNs mainly applied to healthcare institutions collects and analyzes data related to one's health and well-being. Applications can warn users when sensing dangerous levels of blood pressure, oxygen concentration, air quality, among others.
 
@@ -23,10 +27,8 @@ Other applications of IoT in building smart spaces include:
 > ![Libelium Smart World](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d745c9e7-0690-44ec-bd4b-218ef8e7b2be/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201205T082115Z&X-Amz-Expires=86400&X-Amz-Signature=55489e5b0d5d76a6d3c2b69985e44b2900cd9f062d0f806726e483cf36a64986&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 
-
-***
-
 ### References:
+
 > Amyx, S. _Why the Internet of Things will Disrupt Everything._ Wired. Retrieved from: https://www.wired.com/insights/2014/07/internet-things-will-disrupt-everything/
 
 > Bettsetter, C. _Cooperative Relaying in Wireless Networks._ Bettsetter. Retrieved from: https://bettstetter.com/research/relay/#:~:text=Applications 
