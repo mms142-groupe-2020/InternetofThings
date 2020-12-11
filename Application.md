@@ -1,5 +1,7 @@
 # Internet of Things Applications
 
+![IoT Applications](https://user-images.githubusercontent.com/72113961/101889404-52068380-3bda-11eb-87b5-db898308b2ae.png)
+
 ## Daily-Lives
 
 IoT can already be observed mostly anywhere in the world especially in an urban location where the environment is modern and up-to-date with the current technologies. For example, smart gadgets at home are a product of IoT like our smartphones, smartwatches, other wearable technologies, and smart machines (for example, appliances that can be connected to a smartphone). The gadgets we use store our information and record our usage and use that data to customize our usage or improve their function depending on how we use them.
