@@ -1,20 +1,20 @@
-## What is IoT - Daizy
+## [What is IoT](https://mms142-groupe-2020.github.io/InternetofThings/History)
 - Brief history of IoT
 - IoT concepts
 - General example of IoT
-## Advantages of IoT - Julia
+## [Advantages of IoT](https://mms142-groupe-2020.github.io/InternetofThings/Advantages)
 - Environment
 - Efficiency
-## Application in Industries - Jameson, Asaph
+## [Application in Industries](https://mms142-groupe-2020.github.io/InternetofThings/Application)
 - Agriculture
 - Medical
 - Manufacturing
 - Retail, etc
-## [Challenges with IoT - Joel](https://mms142-groupe-2020.github.io/InternetofThings/Challenges)
+## [Challenges with IoT](https://mms142-groupe-2020.github.io/InternetofThings/Challenges)
 - Privacy
-- Security, etc
-- Environmental
-## Real life examples - Gerold, Joshua
+- Ownership
+- Security
+## [Real life Examples](https://mms142-groupe-2020.github.io/InternetofThings/Real%20Life%20Examples)
 
 
 
