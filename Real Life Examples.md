@@ -22,8 +22,6 @@
 
 ## References:
 <br><br>
-Thomas, Mike (April 3, 2019). 34 Internet-of-things (IOT) Companies You Should Know. Retrieved from [https://builtin.com/internet-things/iot-internet-of-things-companies](https://builtin.com/internet-things/iot-internet-of-things-companies) in December 9, 2020.
-<br><br>
 Samsara (2020). AI Dash Cams. Retrieved from [https://www.samsara.com/](https://www.samsara.com/) in December 9, 2020.
 <br><br>
 Armis Security (2020). Medical Device Security & More. Retrieved from [https://www.armis.com/solutions/medical-device-security/](https://www.armis.com/solutions/medical-device-security/) in December 9, 2020.
