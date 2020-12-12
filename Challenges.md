@@ -58,7 +58,7 @@ Though there are smaller companies, they are likely to get sold to these bigger 
 
 Ken Munro, an Ethical Hacking Specialist, was able to demonstrate existing vulnerabilities in smart locks, smart kettles, and even smart dolls. These range from being able to open and find locks, to retrieving wifi passwords, to being able to communicate with a child.
 
-https://www.youtube.com/watch?v=pGtnC1jKpMg
+<video>https://www.youtube.com/watch?v=pGtnC1jKpMg</video>
 
 Indeed, as more and more smart devices get connected to a network, more and more security vulnerabilities need to be taken into account. This requires a lot of work and thought, something that the average consumer probably will not even consider. This leaves security at the hands of the manufacturers some of whom do not have the best interest of the consumer in mind.
 
