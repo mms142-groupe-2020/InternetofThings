@@ -1,3 +1,5 @@
 ### Welcome to our website discussing the Internet of Things.
 
-<img src="/assets/images/network.jpg" alt="Network">
+To begin, please click on one of the topics above.
+
+<img src="https://raw.githubusercontent.com/mms142-groupe-2020/InternetofThings/main/assets/images/network.jpg" alt="Network">
