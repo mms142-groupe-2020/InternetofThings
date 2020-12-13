@@ -1,7 +1,5 @@
 # Challenges with IoT
 
-## Intro
-
 On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening connectivity of devices at the limit of a home’s WiFi network.
 
 “With Amazon Sidewalk, customers will be able to place smart devices anywhere on their property and know they’ll work great, even in dead spots where Wi-Fi and Bluetooth don’t reach.”
@@ -58,7 +56,7 @@ Though there are smaller companies, they are likely to get sold to these bigger 
 
 Ken Munro, an Ethical Hacking Specialist, was able to demonstrate existing vulnerabilities in smart locks, smart kettles, and even smart dolls. These range from being able to open and find locks, to retrieving wifi passwords, to being able to communicate with a child.
 
-<video>https://www.youtube.com/watch?v=pGtnC1jKpMg</video>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=pGtnC1jKpMg"></iframe>
 
 Indeed, as more and more smart devices get connected to a network, more and more security vulnerabilities need to be taken into account. This requires a lot of work and thought, something that the average consumer probably will not even consider. This leaves security at the hands of the manufacturers some of whom do not have the best interest of the consumer in mind.
 
