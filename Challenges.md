@@ -80,6 +80,7 @@ No, these challenges are what society and the world at large will need to addres
 - https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5
 - https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware
 - https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/
+- https://www.youtube.com/watch?v=rZ6xoAtdF3o
 - https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/
 - https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073
 - https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones
