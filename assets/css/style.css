@@ -1,4 +1,9 @@
- #header_wrap {
+---
+---
+
+@import "jekyll-theme-slate";
+
+#header_wrap {
      position:fixed;
      top: 0;
      left: 0;
