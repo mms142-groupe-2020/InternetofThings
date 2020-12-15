@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#header{
+.header{
   text-align:center;
   position:fixed;
 }
@@ -41,14 +41,14 @@
   margin-left: 50px;
 }
 
-#main {
+.main {
   margin-left: 20px; 
   font-size: 25px;
   transition: margin-left .5s;
   padding: 0px 10px 0px 10px;
 }
 
-#footer{
+.footer{
   text-align:center;
 }
   
