@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  display: block;
+  text-align: center;
+}
+
 .sidenav {
   height: 100%;
   width: 0;
