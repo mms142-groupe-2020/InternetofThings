@@ -34,12 +34,18 @@
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenav {
+    padding-top: 15px;
+    width: 150px;
+  }
+  .sidenav a {font-size: 15px;}
 } 
 
 @media screen and (max-width: 800px;) {
-  .main {margin-left: 310px;}
+  .main {
+    margin-left: 310px;
+    position: relative;
+  }
 } 
   
 
