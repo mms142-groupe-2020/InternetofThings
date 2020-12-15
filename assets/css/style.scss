@@ -3,7 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.inner{
+.header_wrap{
+  text-align:center;
+  position: fixed;
+}
+
+.footer_wrap{
   text-align:center;
 }
   
@@ -62,4 +67,10 @@
    }
 }
   
+#outer{
+  width: 100%;
+}
 
+#inner{
+  width: 75%;
+}
