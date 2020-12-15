@@ -3,59 +3,40 @@
 
 @import "{{ site.theme }}";
 
-body {
-	overflow-x: hidden;
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 00;
+  left: 0;
+  background-color: #2a2a2a;
+  overflow-x: hidden;
+  padding-top: 300px;
 }
 
-.nav {
-	height: 100%;
-	width: 0;
-	position: fixed;
-	z-index: 1;
-	top: 0;
-	left: 0;
-	background-color: #222222;
-	overflow-x: hidden;
-	opacity: .9;
-	padding-top: 60px;
-	transition: 0.7s;
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
 }
 
-.nav a{
-	display: block;
-	padding:20px 30px;
-	font-size: 25px;
-	text-decoration: none;
-	color: #818181;
+.sidenav a:hover {
+  color: #f1f1f1;
 }
 
-.nav a: hover {
-	color: #f1f1f1;
-	transition: .4s;
-
+.main {
+  margin-left: 310px; 
+  font-size: 25px;
+  padding: 0px 10px;
 }
 
-.nav .close {
-	position: absolute;	
-	top: 0;
-	right: 22px;
-	margin-left: 50px;
-	font-size: 30px;
-}
-
-.slide a {
-	color: black;
-	font-size: 36px;
-
-}
-
-#content {
-	padding: 20px;
-	transition: margin-left 0.7s;
-	overflow: hidden;
-	width: 100px;
-}
- 
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+} 
 .inner {
   max-width: 75%; 
 }
