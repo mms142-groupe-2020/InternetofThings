@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#inner{
-  width: 80%;
-  text-align:center;
-}
-
 .sidenav {
   height: 100%;
   width: 0;
@@ -42,7 +37,6 @@
 }
 
 .main {
-  width: 80%;
   font-size: 25px;
   text-align: justify;
   transition: margin-left .5s;
