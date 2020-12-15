@@ -6,7 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+      
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script> /*links icons from fontawesom*/
+   
+    <script>
+      function openSlideMenu(){
+  	  document.getElementById('menu').style.width = '250px';
+  	  document.getElementById('content').style.marginLeft = '250px';
+      }
+      function closeSlideMenu(){
+  	  document.getElementById('menu').style.width = '0px';
+  	  document.getElementById('content').style.marginLeft = '0px';
+      }
+  </script>
+    
 {% seo %}
   </head>
 
@@ -29,15 +42,27 @@
     </div>
 
     <!-- SIDE NAVIGATION -->
-    <div class="sidenav">
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/">Home</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/History">What is IoT?</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Advantages">Advantages of IoT</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Application">Application in Industries</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Challenges">Challenges</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Real%20Life%20Examples">Real Life Examples</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/About%20Us">About Us</a>
-    </div>
+  <div id="content">
+		<span class="slide">
+			<a href="#" onclick="openSlideMenu()">
+				<i class="fas fa-bars"></i>
+			</a>
+		</span>
+
+		<div id="menu" class="nav">
+			<a href="#" class="close" onclick="closeSideMenu">
+			<i class="fas fa-times"></i>
+			</a>
+			<a href="https://mms142-groupe-2020.github.io/InternetofThings/">Home</a>
+   		   	<a href="https://mms142-groupe-2020.github.io/InternetofThings/History">What is IoT?</a>
+	     	<a href="https://mms142-groupe-2020.github.io/InternetofThings/Advantages">Advantages of IoT</a>
+	      	<a href="https://mms142-groupe-2020.github.io/InternetofThings/Application">Application in Industries</a>
+    	  	<a href="https://mms142-groupe-2020.github.io/InternetofThings/Challenges">Challenges</a>
+    	  	<a href="https://mms142-groupe-2020.github.io/InternetofThings/Real%20Life%20Examples">Real Life Examples</a>
+      		<a href="https://mms142-groupe-2020.github.io/InternetofThings/About%20Us">About Us</a>
+		</div>
+
+	</div>	
     
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
