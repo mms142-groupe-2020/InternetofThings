@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.header_wrap{
+#header{
   text-align:center;
+  position:fixed;
 }
   
 .sidenav {
@@ -47,7 +48,7 @@
   padding: 0px 10px 0px 10px;
 }
 
-.footer_wrap{
+#footer{
   text-align:center;
 }
   
