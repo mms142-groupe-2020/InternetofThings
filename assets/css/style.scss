@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.header_wrap{
+  text-align:center;
+}
+  
 .sidenav {
   height: 100%;
   width: 0;
@@ -42,6 +46,11 @@
   transition: margin-left .5s;
   padding: 0px 10px 0px 10px;
 }
+
+.footer_wrap{
+  text-align:center;
+}
+  
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 20px;}
