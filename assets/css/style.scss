@@ -3,15 +3,15 @@
 
 @import "{{ site.theme }}";
 
-.header_wrap{
-  text-align:center;
-  position: fixed;
+#outer{
+  width: 100%;
 }
 
-.footer_wrap{
+#inner{
+  width: 80%;
   text-align:center;
 }
-  
+
 .sidenav {
   height: 100%;
   width: 0;
@@ -46,7 +46,6 @@
 }
 
 .main {
-  margin-left: 20px; 
   font-size: 25px;
   text-align: justify;
   transition: margin-left .5s;
@@ -68,10 +67,4 @@
    }
 }
   
-#outer{
-  width: 100%;
-}
 
-#inner{
-  width: 75%;
-}
