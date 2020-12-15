@@ -5,8 +5,8 @@
 
 .sidenav {
   height: 100%;
-  width: 300px;
-  position: fixed;
+  width: 320px;
+  position: relative;
   z-index: 1;
   top: 00;
   left: 0;
@@ -28,7 +28,7 @@
 }
 
 .main_content_wrap {
-  margin-left: 75px; 
+  margin-left: 50px; 
   font-size: 25px;
   padding: 0px 10px 0px 10px;
 }
