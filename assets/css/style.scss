@@ -8,7 +8,7 @@
   position: fixed;
   z-index: 1;
   top: 350px;
-  right: 10px;
+  left: 10px;
   background: #eee;
   overflow-x: hidden;
   padding: 8px 0;
@@ -27,7 +27,7 @@
 }
 
 .main {
-  margin-right: 210px; 
+  margin-left: 210px; 
   font-size: 25px;
   padding: 0px 10px;
 }
