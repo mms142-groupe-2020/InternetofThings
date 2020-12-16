@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+/*align text*/
+
 h1 {
   display: block;
   text-align: center;
@@ -14,6 +16,8 @@ h2 {
   text-align: center;
   margin: 5px;
 }
+
+/* SIDE NAV */
 
 .sidenav {
   height: 100%;
@@ -55,7 +59,9 @@ h2 {
   padding: 0px 10px 0px 10px;
 }
 
-@media screen and (max-height: 450px) { /*responsive design to other devices*/
+ /*responsive design to other devices*/
+
+@media screen and (max-height: 450px) {
   .sidenav {padding-top: 20px;}
   .sidenav a {font-size: 18px;}
 }
@@ -71,4 +77,8 @@ h2 {
    }
 }
   
+/*adjust content alignment*/
 
+.inner {
+  max-width: 75%;
+}
