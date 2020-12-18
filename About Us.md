@@ -1,11 +1,11 @@
 # About Us
 
-## Group E
+We are Group E of MMS 142 for the first trimester of 2020.
 
-- Gerold Dela Cruz
-- Asaph Immanuel Jr. Dequito
-- Julia Alexis Diaz
-- Jamesson Dulzura
-- Joel Doctor
-- Joshua Espallardo
-- Daizy Estrada
+* Dela Cruz, Gerold 
+* Dequito, Asaph Immanuel Jr. 
+* Diaz, Julia Alexis 
+* Doctor, Joel 
+* Dulzura, Jamesson 
+* Espallardo, Joshua 
+* Estrada, Daizy 
