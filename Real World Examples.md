@@ -26,5 +26,5 @@ IoT is an exciting field because of the diverse possibilities it offers. Almost 
 * Samsara (2020). AI Dash Cams. Retrieved from [https://www.samsara.com/](https://www.samsara.com/) in December 9, 2020.
 * Armis Security (2020). Medical Device Security & More. Retrieved from [https://www.armis.com/solutions/medical-device-security/](https://www.armis.com/solutions/medical-device-security/) in December 9, 2020.
 * Wink (2020). [https://www.wink.com/](https://www.wink.com/).
-* Next Leaf Analytics (2020). ColdTrace | Alerts and Analytics for Smarter Vaccine Cold Chain. Retrieved from [https://nexleaf.org/vaccines/](https://nexleaf.org/vaccines/) in December 9, 2020.
+* Next Leaf Analytics (2020). ColdTrace, Alerts and Analytics for Smarter Vaccine Cold Chain. Retrieved from [https://nexleaf.org/vaccines/](https://nexleaf.org/vaccines/) in December 9, 2020.
 * Cooler Screens (2020). [https://www.coolerscreens.com/](https://www.coolerscreens.com/)
