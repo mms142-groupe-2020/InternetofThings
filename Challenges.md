@@ -74,16 +74,16 @@ No, these challenges are what society and the world at large will need to addres
 
 ## References
 
-- https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/
-- https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk
-- https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/
-- https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5
-- https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware
-- https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/
-- https://www.youtube.com/watch?v=rZ6xoAtdF3o
-- https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/
-- https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073
-- https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones
-- https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide
+- [https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/](https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/)
+- [https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk](https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk)
+- [https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
+- [https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5](https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5)
+- [https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware](https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware)
+- [https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/](https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/)
+- [https://www.youtube.com/watch?v=rZ6xoAtdF3o](https://www.youtube.com/watch?v=rZ6xoAtdF3o)
+- [https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/](https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/)
+- [https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073](https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073)
+- [https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones](https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones)
+- [https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide)
 
 
