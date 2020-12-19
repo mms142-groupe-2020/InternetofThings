@@ -6,7 +6,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-        
+       
+        <!-- SIDE NAVIGATION -->
+
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/">Home</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/History">What is IoT?</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Advantages">Advantages of IoT</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Application">Application in Industries</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Challenges">Challenges</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Real%20Life%20Examples">Real Life Examples</a>
+      <a href="https://mms142-groupe-2020.github.io/InternetofThings/About%20Us">About Us</a>
+    </div>
+       
+    <span style="font-size:30px;font-color:#ffffff;margin-left:10px;cursor:pointer" onclick="openNav()">&#9776; </span>
+    
+    <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+      }
+
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+      }
+    </script>
+    
 {% seo %}
   </head>
 
@@ -17,7 +42,7 @@
         <header class="inner">         
 
           <h1 id="project_title">Internet of Things</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h2 id="project_tagline">A Disruptive Innovation</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -28,18 +53,7 @@
         </header>
     </div>
 
-    <!-- SIDE NAVIGATION -->
 
-    <div class="sidenav">
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/">Home</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/History">What is IoT?</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Advantages">Advantages of IoT</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Application">Application in Industries</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Challenges">Challenges</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/Real%20Life%20Examples">Real Life Examples</a>
-      <a href="https://mms142-groupe-2020.github.io/InternetofThings/About%20Us">About Us</a>
-    </div>
-    
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
@@ -51,7 +65,7 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="copyright">This repository is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> for MMS 142 1T 2020-2021 UP Open University</p>
         {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
