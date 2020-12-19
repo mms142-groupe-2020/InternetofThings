@@ -1,6 +1,6 @@
 # Advantages of IoT
 
-The Internet of Things (IoT) describes the platform connecting various objects, enabling object-to-object communication without human involvement. It hosts different technologies such as sensors and application program interface (API) to collect and exchange data.
+The Internet of Things (IoT) describes the platform connecting various objects, enabling object-to-object communication without human involvement. It hosts different technologies, such as sensors and Application Program Interface (API) to collect and exchange data.
 
 ## Trends
 
@@ -24,23 +24,23 @@ IoTs can also monitor and control industrial processes such as machine maintenan
 
 Other applications of IoT in building smart spaces include:
 
-> ![Libelium Smart World](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d745c9e7-0690-44ec-bd4b-218ef8e7b2be/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201205T082115Z&X-Amz-Expires=86400&X-Amz-Signature=55489e5b0d5d76a6d3c2b69985e44b2900cd9f062d0f806726e483cf36a64986&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+> ![Libelium Smart World](https://www.libelium.com/wp-content/uploads/2020/09/libelium_smart_world_infographic_950px.png)
 
 
-### References:
+## References
 
-> Amyx, S. _Why the Internet of Things will Disrupt Everything._ Wired. Retrieved from: https://www.wired.com/insights/2014/07/internet-things-will-disrupt-everything/
+* Amyx, S. _Why the Internet of Things will Disrupt Everything._ Wired. Retrieved from: https://www.wired.com/insights/2014/07/internet-things-will-disrupt-everything/
 
-> Bettsetter, C. _Cooperative Relaying in Wireless Networks._ Bettsetter. Retrieved from: https://bettstetter.com/research/relay/#:~:text=Applications 
+* Bettsetter, C. _Cooperative Relaying in Wireless Networks._ Bettsetter. Retrieved from: https://bettstetter.com/research/relay/#:~:text=Applications 
 
-> McFedries, P. (2016, September 28). _The Internet of Things Is Full of Motes, Domotics, and BANs_. IEEE Spectrum. Retrieved from: [https://spectrum.ieee.org/telecom/internet/the-internet-of-things-is-full-of-motes-domotics-and-bans](https://spectrum.ieee.org/telecom/internet/the-internet-of-things-is-full-of-motes-domotics-and-bans)
+* McFedries, P. (2016, September 28). _The Internet of Things Is Full of Motes, Domotics, and BANs_. IEEE Spectrum. Retrieved from: [https://spectrum.ieee.org/telecom/internet/the-internet-of-things-is-full-of-motes-domotics-and-bans](https://spectrum.ieee.org/telecom/internet/the-internet-of-things-is-full-of-motes-domotics-and-bans)
 
-> Reinhardt, A., Christin, D.,  Zoller, S. (2014). _Wireless Sensor Networks and Their Applications: Where Do We Stand? And Where Do We Go?_ Proceedings of the 13th GI/ITG KuVS Fachesprach "Drahtlose Sensornetze" (FGSN), pp 1-4. Retrieved from: https://www.uni-goettingen.de/de/document/download/e61367bf467d65b7e4df1554c54d783d-en.pdf/christin_preprintFGSN14.pdf
+* Reinhardt, A., Christin, D.,  Zoller, S. (2014). _Wireless Sensor Networks and Their Applications: Where Do We Stand? And Where Do We Go?_ Proceedings of the 13th GI/ITG KuVS Fachesprach "Drahtlose Sensornetze" (FGSN), pp 1-4. Retrieved from: https://www.uni-goettingen.de/de/document/download/e61367bf467d65b7e4df1554c54d783d-en.pdf/christin_preprintFGSN14.pdf
 
-> Rong, C., Cayirci, E. (2009). _Wireless Network Security. Computer and Information Security Handbook._ Retrieved from: https://www.sciencedirect.com/topics/computer-science/ad-hoc-wireless-network
+* Rong, C., Cayirci, E. (2009). _Wireless Network Security. Computer and Information Security Handbook._ Retrieved from: https://www.sciencedirect.com/topics/computer-science/ad-hoc-wireless-network
 
-> SAP. _The Internet of Things definition. SAP: Tech Trends._ Retrieved from: https://www.sap.com/canada/trends/internet-of-things.html
+* SAP. _The Internet of Things definition. SAP: Tech Trends._ Retrieved from: https://www.sap.com/canada/trends/internet-of-things.html
 
-> Shiverware: _Mobile & IoT Solutions. Internet of Things vs Wireless Sensor Networks._ Retrieved from: https://shiverware.com/iot/iot-vs-wsn.html#:~:text=WSN%20as%20a%20Subset%20of,internet%20in%20an%20IoT%20system
+* Shiverware: _Mobile & IoT Solutions. Internet of Things vs Wireless Sensor Networks._ Retrieved from: https://shiverware.com/iot/iot-vs-wsn.html#:~:text=WSN%20as%20a%20Subset%20of,internet%20in%20an%20IoT%20system
 
-> Thales (2017, February 10). _Environment and the IOT—5 Examples._ Retrieved from: https://www.thalesgroup.com/en/markets/digital-identity-and-security/iot/magazine/five-ways-iot-helping-environment
+* Thales (2017, February 10). _Environment and the IOT—5 Examples._ Retrieved from: https://www.thalesgroup.com/en/markets/digital-identity-and-security/iot/magazine/five-ways-iot-helping-environment
