@@ -1,12 +1,12 @@
 # Challenges with IoT
 
-On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening connectivity of devices at the limit of a home’s WiFi network.
+On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening the connectivity of devices at the limit of a home’s WiFi network.
 
 “With Amazon Sidewalk, customers will be able to place smart devices anywhere on their property and know they’ll work great, even in dead spots where Wi-Fi and Bluetooth don’t reach.”
 
 What is not explained in the blog post, however, is that this connectivity is shared to all Amazon smart devices, even ones that are not owned by the user. This potentially means that the devices of a neighbor can connect to the Internet using a user’s ISP. Amazon later clarified that there will be an opt-out setting to this feature, but keeping it on by default ensures that a majority of these devices will have this feature turned on.
 
-This example outlines some of the challenges of IoT: privacy, ownership and most importantly, security. 
+This example outlines some of the challenges of IoT: privacy, ownership, and most importantly, security.
 
 Sidewalk allows devices to always be connected, thus always gathering data, even if your ISP is disconnected, this is a big privacy concern.
 
@@ -16,13 +16,13 @@ Neighbor’s devices connecting to the internet via a user’s ISP also means th
 
 ## Privacy
 
-Data privacy has been at the forefront of discussion in the Internet space for the past decade. Numerous reports of companies selling the data of their users have prompted regulators in the EU and the US to pass laws like the General Data Protection Regulation (GDPR) in order to limit these activities. Even with these laws, however, the potential amount of data that can be collected by smart devices still lead to a lot of privacy issues. The companies might not know your name or address, but if they have enough data about you, that information will become irrelevant.
+Data privacy has been at the forefront of discussion in the Internet space for the past decade. Numerous reports of companies selling the data of their users have prompted regulators in the EU and the US to pass laws like the General Data Protection Regulation (GDPR) to limit these activities. Even with these laws, however, the potential amount of data that can be collected by smart devices still lead to a lot of privacy issues. The companies might not know your name or address, but if they have enough data about you, that information will become irrelevant.
 
 An article by Mozilla, the company behind the Firefox browser, details how Digital Fingerprinting can be used to identify a person just with the data they leave behind while browsing the web normally.
 
 “While trackers won’t necessarily match your activity with a face or a name, the data they derive from websites you visit, social platforms you use, searches you perform, and content you consume, can be considered personally identifiable. With this data, brokers build a general profile of who you are (age range, location, language, interests, etc.) and sell this insight to advertisers and marketers who use it to relentlessly serve you personalized ads and content recommendations across the web.”
 
-IoT devices by their nature, have sensors built into them that can collect data. Any smart device with a microphone is usually always listening for the keyword to activate them. There are theories that some devices like smartphones or smart home speakers are able to identify when a product is mentioned in a conversation so they can serve the appropriate advertisement in Facebook or YouTube. Though Facebook has denied this, it is still jarring to see an advertisement about something only mentioned in conversation, not even searched for yet.
+IoT devices by their nature, have sensors built into them that can collect data. Any smart device with a microphone is usually always listening for the keyword to activate them. There are theories that some devices like smartphones or smart home speakers can identify when a product is mentioned in a conversation so they can serve the appropriate advertisement on Facebook or YouTube. Though Facebook has denied this, it is still jarring to see an advertisement about something only mentioned in conversation, not even searched for yet.
 
 This could be a coincidence, but this could also be digital fingerprinting working as intended. Perhaps the conversation was spurred on by a previous Google search, so the ads served were for related items. There can be many explanations, but the fact remains that advertisers will use any and all data they can access to increase the chances of an ad being clicked on.
 
@@ -34,13 +34,13 @@ Even something as innocuous as a Smart Light Bulb, that you can turn on or off r
 
 Indeed some companies charge fees for using their devices or services related to these devices. This is on top of the purchasing price of the actual device. If a user fails to pay for these services, or if they do something that the original manufacturer didn’t like, they could lose access to the device they paid for.
 
-The controversy with John Deere tractors illustrates this problem. Farmers are unable to make any repair to their tractors because the software installed on them will detect them and prevent the full use of the equipment. It’s not hard to imagine this happening with smart devices, and with the added connectivity inherent in these devices, they don’t even need to break, they just need to become unsupported by the manufacturer.
+The controversy with John Deere tractors illustrates this problem. Farmers are unable to make any repairs to their tractors because the software installed on them will detect them and prevent the full use of the equipment. It’s not hard to imagine this happening with smart devices, and with the added connectivity inherent in these devices, they don’t even need to break, they just need to become unsupported by the manufacturer.
 
 Sonos, a company known for making smart speaker systems, announced in January 2020 that unsupported devices will no longer receive firmware updates. Normally this would not be a big issue, as companies cannot be expected to support devices indefinitely. But since Sonos sells “speaker systems,” they are also restricting firmware updates for new devices connected to unsupported devices. This forces users that have otherwise working systems to upgrade if they want to continue receiving updates for their devices, which often means for those devices to continue working properly and securely.
 
 ## Security
 
-The aspect of IoT that presents the most challenges is the security aspect. More Internet  connected devices means more points of attack. Conversely, vulnerable devices can also be used as a mode of attack, as they are at their core, computers.
+The aspect of IoT that presents the most challenges is the security aspect. More Internet-connected devices mean more points of attack. Conversely, vulnerable devices can also be used as a mode of attack, as they are at their core, computers.
 
 Security strategist Joshua Corman likened the security issues to “swimming with sharks” in a talk in 2013:
 
@@ -74,16 +74,16 @@ No, these challenges are what society and the world at large will need to addres
 
 ## References
 
-- https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/
-- https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk
-- https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/
-- https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5
-- https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware
-- https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/
-- https://www.youtube.com/watch?v=rZ6xoAtdF3o
-- https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/
-- https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073
-- https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones
-- https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide
+- [https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/](https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/)
+- [https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk](https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk)
+- [https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
+- [https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5](https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5)
+- [https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware](https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware)
+- [https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/](https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/)
+- [https://www.youtube.com/watch?v=rZ6xoAtdF3o](https://www.youtube.com/watch?v=rZ6xoAtdF3o)
+- [https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/](https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/)
+- [https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073](https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073)
+- [https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones](https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones)
+- [https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide)
 
 
