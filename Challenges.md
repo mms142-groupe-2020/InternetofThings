@@ -1,8 +1,11 @@
 # Challenges with IoT
 
+
+
+
 On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening the connectivity of devices at the limit of a home’s WiFi network.
 
-“With Amazon Sidewalk, customers will be able to place smart devices anywhere on their property and know they’ll work great, even in dead spots where Wi-Fi and Bluetooth don’t reach.”
+> “With Amazon Sidewalk, customers will be able to place smart devices anywhere on their property and know they’ll work great, even in dead spots where Wi-Fi and Bluetooth don’t reach.”
 
 What is not explained in the blog post, however, is that this connectivity is shared to all Amazon smart devices, even ones that are not owned by the user. This potentially means that the devices of a neighbor can connect to the Internet using a user’s ISP. Amazon later clarified that there will be an opt-out setting to this feature, but keeping it on by default ensures that a majority of these devices will have this feature turned on.
 
@@ -20,7 +23,7 @@ Data privacy has been at the forefront of discussion in the Internet space for t
 
 An article by Mozilla, the company behind the Firefox browser, details how Digital Fingerprinting can be used to identify a person just with the data they leave behind while browsing the web normally.
 
-“While trackers won’t necessarily match your activity with a face or a name, the data they derive from websites you visit, social platforms you use, searches you perform, and content you consume, can be considered personally identifiable. With this data, brokers build a general profile of who you are (age range, location, language, interests, etc.) and sell this insight to advertisers and marketers who use it to relentlessly serve you personalized ads and content recommendations across the web.”
+> “While trackers won’t necessarily match your activity with a face or a name, the data they derive from websites you visit, social platforms you use, searches you perform, and content you consume, can be considered personally identifiable. With this data, brokers build a general profile of who you are (age range, location, language, interests, etc.) and sell this insight to advertisers and marketers who use it to relentlessly serve you personalized ads and content recommendations across the web.”
 
 IoT devices by their nature, have sensors built into them that can collect data. Any smart device with a microphone is usually always listening for the keyword to activate them. There are theories that some devices like smartphones or smart home speakers can identify when a product is mentioned in a conversation so they can serve the appropriate advertisement on Facebook or YouTube. Though Facebook has denied this, it is still jarring to see an advertisement about something only mentioned in conversation, not even searched for yet.
 
@@ -44,13 +47,13 @@ The aspect of IoT that presents the most challenges is the security aspect. More
 
 Security strategist Joshua Corman likened the security issues to “swimming with sharks” in a talk in 2013:
 
-“If it has software, substitute the word 'hackable'. If it has (a) connection substitute the word 'exposed'...no one is even thinking about the fact that in this digital sea and the Internet of Things, we also have apex predators.”
+> “If it has software, substitute the word 'hackable'. If it has (a) connection substitute the word 'exposed'...no one is even thinking about the fact that in this digital sea and the Internet of Things, we also have apex predators.”
 
 As the market for smart devices grows, a lot of companies have taken the initiative to fill these spaces. Though some of these are large and are fairly reputable (Samsung, Google, Amazon) there are also those that have questionable ties to foreign governments (Huawei). Even the “fairly reputable” companies do not have the best track record for security updates of their most profitable devices (smartphones), what more of smaller margin devices?
 
 In 2015, security researchers were able to find a vulnerability in a Samsung Smart Refrigerator that allowed them to access Gmail credentials.
 
-“The internet-connected device is designed to download Gmail Calendar information to an on-screen display. Security shortcomings mean that hackers who manage to jump on to the same network can potentially steal Google login credentials from their neighbours.”
+> “The internet-connected device is designed to download Gmail Calendar information to an on-screen display. Security shortcomings mean that hackers who manage to jump on to the same network can potentially steal Google login credentials from their neighbours.”
 
 Though there are smaller companies, they are likely to get sold to these bigger companies (Nest to Google, Smart Things to Samsung) if not close down outright. When these companies close or get bought, there is a high chance that the devices they sell will no longer be updated, leaving them vulnerable to attack for as long as they are still in use.
 
@@ -74,16 +77,26 @@ No, these challenges are what society and the world at large will need to addres
 
 ## References
 
-- [https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/](https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/)
-- [https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk](https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk)
-- [https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
-- [https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5](https://www.businessinsider.com/facebook-ads-listening-to-you-2019-5)
-- [https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware](https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware)
-- [https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/](https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/)
-- [https://www.youtube.com/watch?v=rZ6xoAtdF3o](https://www.youtube.com/watch?v=rZ6xoAtdF3o)
-- [https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/](https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/)
-- [https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073](https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073)
-- [https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones](https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:~:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones)
-- [https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide)
+Goode, L. (2020, January 21). Sonos Will Soon End Software Support for Its Older Speakers. Wired. [https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/](https://www.wired.com/story/older-sonos-speakers-will-stop-receiving-updates/)
+
+Kessler, D. (2019, March 20). This is Your Digital Fingerprint. Internet Citizen. [https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
+
+Koebler, J. (2017, March 21). Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware. Vice. [https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware](https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware)
+
+Leyden, J. (2015, August 24). Samsung smart fridge leaves Gmail logins open to attack. The Register. [https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/](https://www.theregister.com/2015/08/24/smart_fridge_security_fubar/)
+
+Meyer, R. (2016, December 8). How an Internet-of-Things Botnet Took Down Twitter, Reddit, and Github. The Atlantic. [https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073/](https://www.theatlantic.com/technology/archive/2016/10/how-a-bunch-of-hacked-dvr-machines-took-down-twitter-and-reddit/505073/)
+
+Staff, A. (2019, September 27). Introducing Amazon Sidewalk. About Amazon. [https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk](https://www.aboutamazon.com/news/devices/introducing-amazon-sidewalk)
+
+Statista. (2020a, September 1). Internet of Things - active connections worldwide 2015-2025. [https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/](https://www.statista.com/statistics/1101442/iot-number-of-connected-devices-worldwide/#:%7E:text=The%20total%20installed%20base%20of,such%20as%20computers%20and%20cellphones)
+
+Statista. (2020b, December 10). Smartphone users worldwide 2016-2021. [https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/)
+
+TEDx Talks. (2013, December 20). Swimming with sharks - security in the internet of things: Joshua Corman at TEDxNaperville. YouTube. [https://www.youtube.com/watch?v=rZ6xoAtdF3o](https://www.youtube.com/watch?v=rZ6xoAtdF3o)
+
+There’s a wildly popular conspiracy theory that Facebook listens to your private phone calls, and no matter what the tech giant says people just aren’t convinced it’s not true. (2019, May 18). Business Insider Nederland. [https://www.businessinsider.nl/facebook-ads-listening-to-you-2019-5?international=true&r=US](https://www.businessinsider.nl/facebook-ads-listening-to-you-2019-5?international=true&r=US)
+
+Williams, C. (2020, November 26). Amazon’s ad-hoc Ring, Echo mesh network can mooch off your neighbors’ Wi-Fi if needed – and it’s opt-out. The Register. [https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/](https://www.theregister.com/2020/11/24/amazon_sidewalk_opt_out/)
 
 
