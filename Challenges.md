@@ -1,7 +1,6 @@
 # Challenges with IoT
 
-
-
+<img src="https://raw.githubusercontent.com/mms142-groupe-2020/InternetofThings/main/assets/images/privacy.jpg" alt="privacy">
 
 On September 27, 2019, tech giant Amazon put up a blog post introducing their new Amazon Sidewalk feature. This feature allows smart devices under their brand to communicate and share network bandwidth with each other with the intended purpose of extending and strengthening the connectivity of devices at the limit of a home’s WiFi network.
 
